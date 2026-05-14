@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040186
+# Name: MANJUSRI KAVYA R
+# Date: 14/05/2026
 
 
 # AIM:
@@ -39,8 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
+<img width="1233" height="901" alt="image" src="https://github.com/user-attachments/assets/e0879103-65f4-4971-853f-9730ce715c60" />
 
 
 
@@ -58,6 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1172" height="636" alt="image" src="https://github.com/user-attachments/assets/8b43693f-f8f6-47b2-ba76-5f163216f669" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +66,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1242" height="891" alt="image" src="https://github.com/user-attachments/assets/c84ec042-1c35-4dcf-a6fe-9823ed66140a" />
 
 
 
@@ -80,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1220" height="729" alt="image" src="https://github.com/user-attachments/assets/db6741ae-2226-4385-a512-051efce87fe5" />
 
 
 
@@ -96,7 +98,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
+<img width="453" height="982" alt="image" src="https://github.com/user-attachments/assets/61fa3ef6-eb3e-41e0-9269-683afd9a3025" />
 
 
 
@@ -118,8 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="1222" height="880" alt="image" src="https://github.com/user-attachments/assets/9104a88f-d3d7-4250-b4a2-738c525db3da" />
 
 
 # RESULT
